@@ -4,4 +4,4 @@ This repository contains a homework about Cryptanalysis via [Frequency Analysis]
 You can run the notebook thanks to MyBinder. Check it out!
 
 ## References
-Check the excellent [http://practicalcryptography.com/cryptanalysis/](James Lyons's website) to learn more about Cryptanalysis.
+Check the excellent [James Lyons's website](http://practicalcryptography.com/cryptanalysis/) to learn more about Cryptanalysis.
