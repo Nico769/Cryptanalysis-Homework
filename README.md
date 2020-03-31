@@ -2,3 +2,6 @@
 This repository contains a homework about Cryptanalysis via [Frequency Analysis](https://en.wikipedia.org/wiki/Frequency_analysis). A simple ciphertext is studied and the cipher used to encrypt it is identified.
 
 You can run the notebook thanks to MyBinder. Check it out!
+
+## References
+Check the excellent [http://practicalcryptography.com/cryptanalysis/](James Lyons's website) to learn more about Cryptanalysis.
